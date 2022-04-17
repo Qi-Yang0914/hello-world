@@ -28,3 +28,11 @@ int test(int x, int y)
     else
         return  y;
 }
+/**
+ * @brief   test
+ * 
+ */
+void test2(void)
+{
+    printf("dev add2 :\n");
+}
